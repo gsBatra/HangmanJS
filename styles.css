@@ -1,8 +1,9 @@
 body {
-    background-color: powderblue;
+    background-color: black;
     position: relative;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     color:white;
+    margin:0 auto;
     height:100%;
     text-align:center;
     font-size:18px;
@@ -12,8 +13,7 @@ li {
   position: relative;
   list-style: none;
   text-align: center;
-  width: 15px;
-  margin: 0;
+  margin: auto;
   display: inline-block;
   padding: 0 10px;
   font-size:1.6em;
