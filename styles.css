@@ -1,7 +1,7 @@
 body {
     background-color: black;
     position: relative;
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-family: "Lucida Console", "Courier New", monospace, sans-serif;
     color:white;
     margin:0 auto;
     height:100%;
@@ -16,7 +16,7 @@ li {
   margin: auto;
   display: inline-block;
   padding: 0 10px;
-  font-size:1.6em;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size:1.4em;
 }
-
-
