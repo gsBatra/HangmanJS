@@ -1,3 +1,8 @@
+// Gagandeep Batra
+// 2/1/2021
+// Net-Centric Computing 
+// Hangman in JS
+
 window.onload = function(){
     // get random word to guess from list of words
     const alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h',
